@@ -36,3 +36,5 @@ export const codeUpdater = createSlide({
         }
     }
 })
+
+export const {updateCode} = codeUpdater.actions
